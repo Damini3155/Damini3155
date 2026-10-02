@@ -10,9 +10,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-</div>
 
-<div>
 
 ### Let's Build Something Meaningful.
 
