@@ -1,6 +1,7 @@
+
 <div align="center">
 
-# ⚡ DAMINI KARANKAL
+<img src="./header.svg" alt="Damini Karankal" width="100%" />
 
 ### AI & Data Science Engineer • Software & Backend Development
 
@@ -12,17 +13,14 @@
   <img src="https://img.shields.io/badge/React-Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-</div>
-
 ---
-
-
-<div align="center">
 
 ### Let's Build Something Meaningful.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Damini%20Karankal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damini-karankal/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Damini3155-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Damini3155)
+
 [![Email](https://img.shields.io/badge/Email-daminikarankal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daminikarankal@gmail.com)
 
 </div>
