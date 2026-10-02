@@ -11,16 +11,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-**B.E. Artificial Intelligence & Data Science • CGPA 9.6/10 • Pune, India**
 
-</div>
-
----
-
-
----
-
-<div align="center">
 
 ### Let's Build Something Meaningful.
 
